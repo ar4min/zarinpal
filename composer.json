@@ -8,8 +8,8 @@
   ],
   "authors": [
     {
-      "name": "PayFa",
-      "email": "info@payfa.com"
+      "name": "Ar4min",
+      "email": "info@Ar4min.com"
     }
   ],
   "autoload": {
@@ -28,7 +28,7 @@
         "ar4min\\zarinpal\\PayfaServiceProvider"
       ],
       "aliases": {
-        "Payfa": "ar4min\\zarinpal\\Facade"
+        "ar4min": "ar4min\\zarinpal\\Facade"
       }
     }
   },
