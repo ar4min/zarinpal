@@ -14,7 +14,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "PayFa\\Payfa\\": "src"
+      "ar4min\\zarinpal\\": "src"
     }
   },
   "require": {
@@ -25,10 +25,10 @@
   "extra": {
     "laravel": {
       "providers": [
-        "PayFa\\Payfa\\PayfaServiceProvider"
+        "ar4min\\zarinpal\\PayfaServiceProvider"
       ],
       "aliases": {
-        "Payfa": "PayFa\\Payfa\\Facade"
+        "Payfa": "ar4min\\zarinpal\\Facade"
       }
     }
   },
